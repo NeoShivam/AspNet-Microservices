@@ -1,9 +1,10 @@
-﻿using System;
+﻿using Catalog.API.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Catalog.API.Entities.Repositories
+namespace Catalog.API.Repositories
 {
     public interface IProductRepository
     {
