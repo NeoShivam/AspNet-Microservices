@@ -1,6 +1,6 @@
 using System;
 
-namespace Ordering.APi
+namespace Ordering.API
 {
     public class WeatherForecast
     {
