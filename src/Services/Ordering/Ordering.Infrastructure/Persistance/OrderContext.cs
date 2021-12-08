@@ -32,7 +32,6 @@ namespace Ordering.Infrastructure.Persistance
                         break;
                 }
             }
-
             return base.SaveChangesAsync(cancellationToken);
         }
     }
