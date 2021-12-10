@@ -133,3 +133,10 @@ services:
     ports:
       - "8010:80"
 
+
+  shopping.aggregator:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+
